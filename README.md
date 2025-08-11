@@ -9,6 +9,14 @@
 - **G-Ref (UMD)**: [下载链接](https://drive.google.com/file/d/1BjUnPVpALurkGl7RXXvQiAHhA-gQYKvK/view?usp=sharing)
 - **G-Ref (Google)**: [下载链接](https://drive.google.com/file/d/1weiw5UjbPfo3tCBPfB8tu6xFXCUG16yS/view?usp=sharing)
 
+### 从Google Drive下载到本地
+上传多个文件到远程服务器：
+```bash
+yinchao@yinchaodeMacBook-Air % cd Desktop
+yinchao@yinchaodeMacBook-Air Desktop % scp gref_google.pth gref_umd.pth refcoco.pth refcoco+.pth y****@*****:/home/yinchao/LAVT-RIS/checkpoints
+```
+
+
 ## 环境要求
 
 ```bash
