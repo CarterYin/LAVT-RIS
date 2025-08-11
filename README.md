@@ -9,6 +9,17 @@
 - **G-Ref (UMD)**: [下载链接](https://drive.google.com/file/d/1BjUnPVpALurkGl7RXXvQiAHhA-gQYKvK/view?usp=sharing)
 - **G-Ref (Google)**: [下载链接](https://drive.google.com/file/d/1weiw5UjbPfo3tCBPfB8tu6xFXCUG16yS/view?usp=sharing)
 
+## 环境要求
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+conda create -n lavt python=3.7.16
+conda activate lavt
+```
+
 ## 使用示例
 
 ```bash
