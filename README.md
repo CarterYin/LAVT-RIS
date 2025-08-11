@@ -11,6 +11,13 @@
 
 ## 使用示例
 
+```bash
+python lavt_demo.py --input_image_path demo/real_test.jpg --prompt "the cat" --output_image_path demo/result_cat.jpg --device cpu
+```
+
+```bash
+python lavt_demo.py --input_image_path demo/person_test.jpg --prompt "the man" --output_image_path demo/result_man.jpg --device cpu
+```
 
 ## 输出说明
 
